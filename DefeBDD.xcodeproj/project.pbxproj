@@ -44,6 +44,7 @@
 		DDD7F4612BF2DBEC004F2559 /* DefeBDDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DefeBDDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDD7F4652BF2DBEC004F2559 /* DefeBDDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefeBDDUITests.swift; sourceTree = "<group>"; };
 		DDD7F4672BF2DBEC004F2559 /* DefeBDDUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefeBDDUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DDD7F4742BF2F63A004F2559 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		DDD7F43E2BF2DBEA004F2559 = {
 			isa = PBXGroup;
 			children = (
+				DDD7F4742BF2F63A004F2559 /* README.md */,
 				DDD7F4492BF2DBEA004F2559 /* DefeBDD */,
 				DDD7F45A2BF2DBEC004F2559 /* DefeBDDTests */,
 				DDD7F4642BF2DBEC004F2559 /* DefeBDDUITests */,
